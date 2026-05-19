@@ -1,5 +1,5 @@
 // heap.cpp
-// Diba Mirza
+// Naz Oguz
 
 #include "heap.h"
 #include <iostream>
