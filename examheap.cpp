@@ -22,7 +22,8 @@ int main(int argc, char *argv[]) {
     int numvals = 3;
     if (t == 1) {
         cout << "testing with one and two values .... ";
-        int sum = 0, count = 0;
+        int sum = 0;
+	int count = 0;
         Heap h;
         srand(time(0));
         int arand = rand() % 1000;
